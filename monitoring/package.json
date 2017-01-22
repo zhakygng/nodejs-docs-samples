@@ -8,7 +8,8 @@
     "test": "cd ..; npm run st -- --verbose monitoring/system-test/*.test.js"
   },
   "dependencies": {
-    "async":"2.1.4",
+    "@google-cloud/monitoring": "0.1.4",
+    "async": "2.1.4",
     "googleapis": "16.0.0"
   }
 }

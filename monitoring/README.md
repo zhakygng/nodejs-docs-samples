@@ -28,6 +28,18 @@ including Cassandra, Nginx, Apache Web Server, Elasticsearch and many others.
 
 ## Samples
 
+### Metrics
+
+View the [documentation][metrics_docs] or the [source code][metrics_code].
+
+__Usage:__ `node metrics.js --help`
+
+```
+```
+
+[metrics_docs]: https://cloud.google.com/monitoring/docs
+[metrics_code]: metrics.js
+
 ### List resources
 
 `list_resources.js` is a command-line program to demonstrate connecting to the Google
